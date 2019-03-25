@@ -10,5 +10,4 @@ cd build
 cmake ..
 make -j4
 ./FinalProject
-# Final-Project-Computer-Graphics
-# Final-Project-Computer-Graphics
+
